@@ -1,0 +1,21 @@
+{
+    "BaseConfig": {
+        "Words": [
+            "Hello",
+            "Good Morning",
+            "Good Afternoon",
+            "Good Evening",
+            "Good Night",
+            "Thank You",
+            "Excuse Me",
+            "Pardon Me",
+            "I'm Sorry",
+            "Right",
+            "Forward",
+            "Backward",
+            "Here",
+            "There",
+            "Good Bye"
+        ]
+    }
+}
